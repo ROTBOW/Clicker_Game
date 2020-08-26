@@ -65,6 +65,12 @@ settings = tk.Button(master = frame_2,
                      borderwidth = 5,
                      ); settings.grid(row = 0, column = 1)
 
+upgrades = tk.Button(master = frame_2,
+                     text = 'upgrades',
+                     font = 'consolas',
+                     borderwidth = 5,
+                     ); upgrades.grid(row = 0, column = 3)
+
 
 clicker.bind('<ButtonRelease-1>', button_press)
 
