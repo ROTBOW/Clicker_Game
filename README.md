@@ -3,7 +3,7 @@ Simple GUI clicker game
 
 things to add:
 - [ ] upgrades
-- [ ] settings (mainly to just restart)
+- [x] settings (mainly to just restart)
 - [x] quit button
 
 -- ROTBOW
